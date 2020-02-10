@@ -1,2 +1,2 @@
-# otimizando-spotify
-otimização do do projeto site spotify
+# OTIMIZANDO SPOTIFY
+otimização do site spotify
